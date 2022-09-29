@@ -132,8 +132,22 @@ public class Program {
         session.close();
         
         HibernatePersistence.getSessionFactory().close();
+<<<<<<< Updated upstream
         
         System.out.println("rohit");
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+        System.out.println("Aishwarya H");
+=======
+        
+        System.out.println("rohit");
+>>>>>>> 675e1f00d0c411275f673ebbb5194739ffe60c70
+=======
+        
+        System.out.println("rohit");
+>>>>>>> 675e1f00d0c411275f673ebbb5194739ffe60c70
+>>>>>>> Stashed changes
 
 	}
 
