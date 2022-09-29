@@ -1,7 +1,10 @@
 Manifest-Version: 1.0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Built-By: 00006216
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
 Built-By: 00006200
@@ -11,6 +14,9 @@ Built-By: 00006216
 =======
 Built-By: 00006216
 >>>>>>> 675e1f00d0c411275f673ebbb5194739ffe60c70
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Build-Jdk: 17.0.4.1
 Created-By: Maven Integration for Eclipse
